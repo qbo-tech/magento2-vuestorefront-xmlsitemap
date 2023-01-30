@@ -2,7 +2,6 @@
   "name": "vendic/magento2-vuestorefront-xmlsitemap",
   "description": "Magento 2 sitemap.xml generator for VueStorefront",
   "require": {
-    "php": "~7.1|~7.2",
     "magento/magento2-base": "^2.2|^2.3",
     "evert/sitemap-php": "^1.2"
   },
